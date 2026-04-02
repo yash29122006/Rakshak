@@ -21,11 +21,13 @@
 
 ### 1. Python Implementation & Live Feed
 Watch the system analyze the live feed and trigger the detection logic upon identifying an accident.
+
 https://github.com/user-attachments/assets/97c56651-21bc-4f6f-9a37-e2d4fcab900d
 <br>
 
 ### 2. Telegram Alert Received
 See how the system dispatches the snapshot and video clip immediately to the specified Telegram Chat.
+
 https://github.com/user-attachments/assets/9efd4a33-1112-495e-99cd-c9cf99e390cf
 <br>
 
