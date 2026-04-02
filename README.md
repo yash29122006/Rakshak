@@ -1,4 +1,5 @@
 # SafeRoad AI — Traffic Accident Detection Prototype
+*A minute saved now can save a life*
 
 https://github.com/user-attachments/assets/97c56651-21bc-4f6f-9a37-e2d4fcab900d
 
