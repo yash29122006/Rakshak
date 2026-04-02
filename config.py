@@ -6,13 +6,13 @@
 # ═══════════════════════════════════════════════════════════════
 
 # ── Telegram Bot credentials ──────────────────────────────────
-TELEGRAM_BOT_TOKEN = "8711636556:AAEace1glHXdOUxiav4IptoKj9E6frkx_Hk"
-TELEGRAM_CHAT_ID = "1685455588"
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM-BOT_TOKEN"
+TELEGRAM_CHAT_ID = "YOUR_TELEGRAM-BOT_CHAT_ID"
 
 # ── Google Gemini AI verification (free tier) ─────────────────
 # Get a free key from: https://aistudio.google.com/apikey
 # If empty, AI verification is skipped and rules alone are used.
-GEMINI_API_KEY = "AIzaSyCEmF5MzLdQqTvbL9z4T4ZK91khbRRGlzg"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 # ── YOLOv8 detection confidence ───────────────────────────────
 # 0.45 = catches bikes/motorcycles which YOLO is less confident on
