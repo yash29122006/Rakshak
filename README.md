@@ -1,8 +1,5 @@
-# SafeRoad AI — Traffic Accident Detection Prototype *A minute saved now can save a life*
-
-https://github.com/user-attachments/assets/97c56651-21bc-4f6f-9a37-e2d4fcab900d
-
-https://github.com/user-attachments/assets/9efd4a33-1112-495e-99cd-c9cf99e390cf
+# SafeRoad AI — Traffic Accident Detection Prototype  
+### *A minute saved now can save a life*
 
 **SafeRoad AI** is a real-time, local accident detection system designed as part of **Project Rakshak**. It utilizes computer vision (YOLOv8) combined with multi-stage rule engines and AI verification (Google Gemini) to detect, confirm, and alert users about traffic accidents instantly via Telegram.
 
@@ -24,19 +21,13 @@ https://github.com/user-attachments/assets/9efd4a33-1112-495e-99cd-c9cf99e390cf
 
 ### 1. Python Implementation & Live Feed
 Watch the system analyze the live feed and trigger the detection logic upon identifying an accident.
+https://github.com/user-attachments/assets/97c56651-21bc-4f6f-9a37-e2d4fcab900d
 <br>
-<video width="100%" controls>
-  <source src="Python implement video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ### 2. Telegram Alert Received
 See how the system dispatches the snapshot and video clip immediately to the specified Telegram Chat.
+https://github.com/user-attachments/assets/9efd4a33-1112-495e-99cd-c9cf99e390cf
 <br>
-<video width="100%" controls>
-  <source src="Telegram report video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ---
 
