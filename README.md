@@ -1,5 +1,8 @@
 # SafeRoad AI — Traffic Accident Detection Prototype
 
+https://github.com/user-attachments/assets/97c56651-21bc-4f6f-9a37-e2d4fcab900d
+https://github.com/user-attachments/assets/9efd4a33-1112-495e-99cd-c9cf99e390cf
+
 **SafeRoad AI** is a real-time, local accident detection system designed as part of **Project Rakshak**. It utilizes computer vision (YOLOv8) combined with multi-stage rule engines and AI verification (Google Gemini) to detect, confirm, and alert users about traffic accidents instantly via Telegram.
 
 ## 🚀 Features
