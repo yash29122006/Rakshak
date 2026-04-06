@@ -90,7 +90,7 @@ python main.py
 
 ---
 
-## ⚙️ How the Logic Pipeline Works
+## How the Logic Pipeline Works
 
 1. **Capture:** Reads the webcam (or video stream) into a rolling buffer.
 2. **Detect:** YOLOv8 extracts bounding boxes for relevant classes.
@@ -103,5 +103,5 @@ python main.py
    - The pre/post frames are stitched into an `.avi` file.
    - The video is sent to Telegram.
 
-## 🤝 Contributions
+## Contributions
 Built specifically for the Project Rakshak initiative. Pull requests, optimization suggestions, and new rule ideas are welcome!
