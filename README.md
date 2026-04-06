@@ -3,7 +3,7 @@
 
 **SafeRoad AI** is a real-time, local accident detection system designed as part of **Project Rakshak**. It utilizes computer vision (YOLOv8) combined with multi-stage rule engines and AI verification (Google Gemini) to detect, confirm, and alert users about traffic accidents instantly via Telegram.
 
-## 🚀 Features
+## Features
 
 - **Live Webcam/Feed Processing:** Captures and processes continuous video frames.
 - **YOLOv8 Object Detection:** Identifies cars, motorcycles, bicycles, buses, trucks, and persons using the highly efficient `yolov8n` neural network.
@@ -48,7 +48,7 @@ accident-detector/
 
 ---
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - Python 3.10+
